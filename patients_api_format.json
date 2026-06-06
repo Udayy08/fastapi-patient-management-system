@@ -1,11 +1,11 @@
 {
     "P001": {
-        "name": "Rahul Sharma",
+        "name": "Avishek",
         "age": 21,
-        "gender": "Male",
-        "height": 1.51,
-        "weight": 52,
-        "bmi": 22.8,
+        "gender": "male",
+        "height": 1.7,
+        "weight": 65.0,
+        "bmi": 22.49,
         "verdict": "Normal"
     },
     "P002": {
@@ -177,6 +177,15 @@
         "height": 1.8,
         "weight": 90,
         "bmi": 27.8,
+        "verdict": "Overweight"
+    },
+    "P021": {
+        "name": "Gayatri",
+        "age": 22,
+        "gender": "female",
+        "height": 1.54,
+        "weight": 70.0,
+        "bmi": 29.52,
         "verdict": "Overweight"
     }
 }
