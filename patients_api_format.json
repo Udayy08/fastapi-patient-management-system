@@ -1,0 +1,182 @@
+{
+    "P001": {
+        "name": "Rahul Sharma",
+        "age": 21,
+        "gender": "Male",
+        "height": 1.51,
+        "weight": 52,
+        "bmi": 22.8,
+        "verdict": "Normal"
+    },
+    "P002": {
+        "name": "Priya Patel",
+        "age": 22,
+        "gender": "Female",
+        "height": 1.53,
+        "weight": 54,
+        "bmi": 23.1,
+        "verdict": "Normal"
+    },
+    "P003": {
+        "name": "Amit Kumar",
+        "age": 23,
+        "gender": "Male",
+        "height": 1.54,
+        "weight": 56,
+        "bmi": 23.6,
+        "verdict": "Normal"
+    },
+    "P004": {
+        "name": "Sneha Reddy",
+        "age": 24,
+        "gender": "Female",
+        "height": 1.56,
+        "weight": 58,
+        "bmi": 23.8,
+        "verdict": "Normal"
+    },
+    "P005": {
+        "name": "Arjun Singh",
+        "age": 25,
+        "gender": "Male",
+        "height": 1.57,
+        "weight": 60,
+        "bmi": 24.3,
+        "verdict": "Normal"
+    },
+    "P006": {
+        "name": "Neha Gupta",
+        "age": 26,
+        "gender": "Female",
+        "height": 1.59,
+        "weight": 62,
+        "bmi": 24.5,
+        "verdict": "Normal"
+    },
+    "P007": {
+        "name": "Vikram Rao",
+        "age": 27,
+        "gender": "Male",
+        "height": 1.6,
+        "weight": 64,
+        "bmi": 25.0,
+        "verdict": "Overweight"
+    },
+    "P008": {
+        "name": "Pooja Mehta",
+        "age": 28,
+        "gender": "Female",
+        "height": 1.62,
+        "weight": 66,
+        "bmi": 25.1,
+        "verdict": "Overweight"
+    },
+    "P009": {
+        "name": "Karan Verma",
+        "age": 29,
+        "gender": "Male",
+        "height": 1.64,
+        "weight": 68,
+        "bmi": 25.3,
+        "verdict": "Overweight"
+    },
+    "P010": {
+        "name": "Anjali Nair",
+        "age": 30,
+        "gender": "Female",
+        "height": 1.65,
+        "weight": 70,
+        "bmi": 25.7,
+        "verdict": "Overweight"
+    },
+    "P011": {
+        "name": "Rohit Das",
+        "age": 31,
+        "gender": "Male",
+        "height": 1.67,
+        "weight": 72,
+        "bmi": 25.8,
+        "verdict": "Overweight"
+    },
+    "P012": {
+        "name": "Kavya Iyer",
+        "age": 32,
+        "gender": "Female",
+        "height": 1.68,
+        "weight": 74,
+        "bmi": 26.2,
+        "verdict": "Overweight"
+    },
+    "P013": {
+        "name": "Manish Yadav",
+        "age": 33,
+        "gender": "Male",
+        "height": 1.7,
+        "weight": 76,
+        "bmi": 26.3,
+        "verdict": "Overweight"
+    },
+    "P014": {
+        "name": "Divya Jain",
+        "age": 34,
+        "gender": "Female",
+        "height": 1.71,
+        "weight": 78,
+        "bmi": 26.7,
+        "verdict": "Overweight"
+    },
+    "P015": {
+        "name": "Sandeep Joshi",
+        "age": 35,
+        "gender": "Male",
+        "height": 1.73,
+        "weight": 80,
+        "bmi": 26.7,
+        "verdict": "Overweight"
+    },
+    "P016": {
+        "name": "Meera Kapoor",
+        "age": 36,
+        "gender": "Female",
+        "height": 1.74,
+        "weight": 82,
+        "bmi": 27.1,
+        "verdict": "Overweight"
+    },
+    "P017": {
+        "name": "Akash Mishra",
+        "age": 37,
+        "gender": "Male",
+        "height": 1.75,
+        "weight": 84,
+        "bmi": 27.4,
+        "verdict": "Overweight"
+    },
+    "P018": {
+        "name": "Ritu Sharma",
+        "age": 38,
+        "gender": "Female",
+        "height": 1.77,
+        "weight": 86,
+        "bmi": 27.5,
+        "verdict": "Overweight"
+    },
+    "P019": {
+        "name": "Nitin Agarwal",
+        "age": 39,
+        "gender": "Male",
+        "height": 1.78,
+        "weight": 88,
+        "bmi": 27.8,
+        "verdict": "Overweight"
+    },
+    "P020": {
+        "name": "Shreya Roy",
+        "age": 40,
+        "gender": "Female",
+        "height": 1.8,
+        "weight": 90,
+        "bmi": 27.8,
+        "verdict": "Overweight"
+    }
+}
